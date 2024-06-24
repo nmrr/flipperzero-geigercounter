@@ -36,7 +36,7 @@ The output pin for measurement on the Arduino is not suitable for use with the *
 
 <p align="center"><img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/jack.png" width=40% height=40%></p>
 
-The black wire is typically used for ground(sleeve on the schematic). Verify this with a multimeter or by testing the other wires.
+The black wire is typically used for ground (sleeve on the schematic). Verify this with a multimeter or by testing the other wires.
 
 Global schema:
 

@@ -30,13 +30,13 @@ You also need jumper wires to connect the board on the **Flipper Zero**.
 - tritium (very low beta)
 
 
-The geiger counter board can be powered with +5V power pin of the **Flipper Zero**. This pin will automatically be enabled when the program is launched. 
+The **+5V** power pin on the Flipper Zero can be used to power the Geiger counter board: This pin will be automatically turned on when the program is initiated.
 
-Output pin for measure on arduino cannot be used on the **Flipper Zero** because output voltage is too low. You can use jack out port instead. Just cut audio jack cable and connect audio channel (left, right or both together) with a cut half male jumper wire to **A7** GPIO:
+The output pin for measurement on the Arduino is not suitable for use with the **Flipper Zero** due to low output voltage. Use the jack out port instead. Cut an audio jack cable and connect the audio channel (left, right, or both) to a cut half male jumper wire, then connect it to the **A7** GPIO.
 
 <p align="center"><img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/jack.png" width=40% height=40%></p>
 
-Black wire is usually used for the ground (sleeve on the schematic). You can use a multimeter to be sure or simply test other wires.
+The black wire is typically used for ground(sleeve on the schematic). Verify this with a multimeter or by testing the other wires.
 
 Global schema:
 
@@ -68,7 +68,7 @@ The program will automatically be launched after compilation
 
 <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper1.png" width=25% height=25%>
 
-**A4** GPIO can be connected on **A7** GPIO to test this application without using a geiger tube. **A4** GPIO is generating a signal whose frequency changes every second.
+**A4** GPIO can be connected on **A7** GPIO to test this application without using a geiger tube. **A4** GPIO generates a signal with a frequency that varies every second.
 
 **Button assignments**: 
 
@@ -91,29 +91,29 @@ Ambient radioactivity (descendants of radon gas are detected, not radon itself):
 
 <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper2.png" width=25% height=25%> <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper8.png" width=25% height=25%> <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper9.png" width=25% height=25%>
 
-Measure of uranium ore piece inside a lead container:
+Measurement of a sample of uranium ore within a lead container:
 
 <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper3.png" width=25% height=25%> <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper12.png" width=25% height=25%> <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper13.png" width=25% height=25%> <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper14.png" width=25% height=25%>
 
 **Note:** measures in **Sv** or **Rad** are not precise
 
-Measure of uranium ore piece (the most radioactive part):
+Measurement of a sample of uranium ore (the most radioactive part):
 
 <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper4.png" width=25% height=25%>
 
-Measure of radium dial pointers:
+Measurement of radium dial pointers:
 
 <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper5.png" width=25% height=25%>
 
-All previous measures in a row (the scale of the graph is automatically adjusted):
+All prior measurements in sequence (the scale of the graph is automatically adjusted):
 
 <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper6.png" width=25% height=25%>
 
-Measure of uranium orange pottery:
+Measurement of uranium orange pottery:
 
 <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper10.png" width=25% height=25%>
 
-Measure of americium-241 button from a smoke detector (descendants of americium or radioisotope impurities are detected, not americium itself):
+Measurement of americium-241 button from a smoke detector (descendants of americium or radioisotope impurities are detected, not americium itself):
 
 <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper11.png" width=25% height=25%>
 

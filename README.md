@@ -117,7 +117,7 @@ Measurement of americium-241 button from a smoke detector (descendants of americ
 
 <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper11.png" width=25% height=25%>
 
-**A4** GPIO on **A7** GPIO (to test this program without a geiger tube):
+**A4** GPIO on **A7** GPIO (to test this program without a geiger board):
 
 <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/flipper7.png" width=25% height=25%>
 
@@ -131,7 +131,7 @@ Version of the application (press down button during 1 sec to display version):
 
 ## Recording function
 
-Output **CSV** files are stored at the root of SD card. Date & time are set in the name file (example: **geiger-2023-07-03--23-48-15.csv**)
+Output **CSV** files are stored in the root directory of the SD card. Date and time are incorporated into the file name (example: **geiger-2023-07-03--23-48-15.csv**)
 
 Data sample:
 

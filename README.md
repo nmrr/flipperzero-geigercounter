@@ -83,7 +83,7 @@ button  | function
 
 If you don't want to build this application, just simply copy **flipper_geiger.fap** on your **Flipper Zero** 
 
-Build has been made with official toolchain, **API Mismatch** error may appear if you are using custom firmware. You can bypass this error but the program may crash.
+Build has been made with official toolchain (0.102.3), **API Mismatch** error may appear if you are using custom firmware. You can bypass this error but the program may crash.
 
 ## Use cases
 
@@ -197,6 +197,9 @@ Here are some nice ideas to improve this app:
 * Buzz when it gets dangerous like a dosimeter
 
 ## Changelog
+
+* 2024-06-24
+  * Bug fix
 
 * 2024-03-11
   * Bug fix

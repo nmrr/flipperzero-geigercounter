@@ -5,7 +5,9 @@
 (banner has been made with **Midjourney**)
 
 
-You need a **geiger counter** board to run this application, this board can be used: https://aliexpress.com/item/1005004074447209.html
+You need a **geiger counter** board to run this application, this board can be used: https://fr.aliexpress.com/item/1005005983829775.html (**NOT** sponsored)
+
+Similar boards on AliExpress may also work
 
 You also need jumper wires to connect the board on the **Flipper Zero**.
 

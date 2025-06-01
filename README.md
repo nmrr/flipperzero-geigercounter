@@ -173,6 +173,14 @@ I maintain another application that uses the **geiger board** to roll dice by us
 
 <img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/user/wy8b1vhu4lyb1.jpg" width=50% height=50%>
 
+[Thick_Swordfish6666 [Reddit]](https://www.reddit.com/user/Thick_Swordfish6666/) - https://www.reddit.com/r/flipperhacks/comments/1jfqhkm/flipper_zero_geiger_counter_why_not/
+
+<img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/user/ckjx6uyvwupe1.jpeg" width=50% height=50%>
+
+[thits666 [Reddit]](https://www.reddit.com/user/thits666/) - https://www.reddit.com/r/flipperhacks/comments/1jfqhkm/flipper_zero_geiger_counter_why_not/
+
+<img src="https://github.com/nmrr/flipperzero-geigercounter/blob/main/img/user/flipper-zero-geiger-counter-why-not-v0-8tiv6hg1kxpe1.jpg" width=50% height=50%>
+
 [Seanclark2409 [YouTube]](https://www.youtube.com/@seanclark2409) (click on the picture to see the video): 
 
 [![Watch the video](https://img.youtube.com/vi/JQB2jvY1oZ0/maxresdefault.jpg)](https://youtu.be/JQB2jvY1oZ0)

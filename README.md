@@ -197,6 +197,14 @@ I maintain another application that uses the **geiger board** to roll dice by us
 
 [![Watch the video](https://img.youtube.com/vi/lVqxNnsxskg/maxresdefault.jpg)](https://www.youtube.com/watch?v=lVqxNnsxskg)
 
+[Jeremiah of All Trades [YouTube]](https://www.youtube.com/@Jeremiah.o.A.T) (click on the picture to see the video):
+
+[![Watch the video](https://img.youtube.com/vi/hJV7HJcZ4aA/maxresdefault.jpg)](https://www.youtube.com/watch?v=hJV7HJcZ4aA)
+
+[FlipperZero [YouTube]](https://www.youtube.com/@FlipperZero) (click on the picture to see the video):
+
+[![Watch the video](https://img.youtube.com/vi/MG8LLoqSnD8/maxresdefault.jpg)](https://www.youtube.com/watch?v=MG8LLoqSnD8)
+
 ## What's next ?
 
 Here are some nice ideas to improve this app:

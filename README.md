@@ -6,6 +6,7 @@
 
 
 You need a **geiger counter** board to run this application, this board can be used: https://fr.aliexpress.com/item/1005005983829775.html (**NOT** sponsored)
+A dedicated board has been developed and works very well (I’ve tested it myself): https://www.banggood.com/Flipper-Zero-Geiger-Counter-Module-J305-Tube-Radiation-Tester-Beta-Gamma-Testing-Environmental-Monitoring-Random-Number-Generator-p-2039266.html (**NOT** sponsored)
 
 Similar boards on AliExpress may also work
 
